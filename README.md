@@ -7,6 +7,7 @@
 We are grappling with a pandemic that’s operating at a never-before-seen scale. Researchers all over the globe are frantically trying to develop a vaccine or a cure for COVID-19 while doctors are just about keeping the pandemic from overwhelming the entire world.
 
 I recently had an idea to apply my statistical knowledge to the trove of COVID-19 data from Ministry of Home Affairs, India.
+
 ![ANOVA Test on COVID-19 Data](https://github.com/Praveen76/ANOVA-Test-COVID-19/blob/master/corona_00030.jpg)
 
 In this project, I’ll introduce you to the ANOVA test and its different types that are being used to make better decisions. The icing on the cake? I’ll demonstrate each type of ANOVA test in Python to visualize how they work on COVID-19 Data. So let’s get going!
