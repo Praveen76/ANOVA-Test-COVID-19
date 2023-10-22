@@ -1,2 +1,9 @@
 # ANOVA-Test-COVID-19
-I've demonstrated ANOVA test on real time COVID-19 data
+
+
+---
+> A fact is a simple statement that everyone believes. It’s innocent, unless found guilty. A Hypothesis is a novel suggestion that no one wants to believe. It’s guilty, until found effective. – Edward Teller
+
+ 
+
+
