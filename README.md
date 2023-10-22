@@ -37,6 +37,6 @@ In case of any issue with installation or otherwise, please contact me on [Linke
 * What is ANOVA-Test
 * Assumptions of ANOVA-Test
 * Types of ANOVA-Test
-* What are Post-hoc tests
+* What are Post-hoc tests; Tukey HSD test
 * Implementation of One-Way, and Two-Way ANOVA-Tests using statsmodels, and OLS Models.
 
