@@ -33,6 +33,9 @@ The code has been tested on Windows system. It should work well on other distrib
 
 In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
+# **Article published on Analytics Vidhya:** 
+* I've published a comprehensive case study on ANOVA Test using real time COVID-19 data. You can refer this [link](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/) to get more details.
+
 # **Important learnings:**
 * What is ANOVA-Test
 * Assumptions of ANOVA-Test
