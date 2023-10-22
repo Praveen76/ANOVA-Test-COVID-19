@@ -1,4 +1,4 @@
-# ANOVA-Test-COVID-19
+# ANOVA-Test-COVID-19 Case Study
 
 
 ---
